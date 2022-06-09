@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Fatma-prog
+- 👋 Hi, I’m Fatma Al Zahraa Najah . 
 - 👀 I’m interested in programming, web design, and web development using node js
 - 🌱 I’m currently learning web developing
 - 💞️ I’m looking to collaborate on ...
